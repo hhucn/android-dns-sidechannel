@@ -1,0 +1,619 @@
+Sample 1:
+
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+Average request time: 258.0116081237793 ms
+Standart deviation: 131.2755611450138 ms
+Samples:
+336.54093742370605
+319.54240798950195
+323.05121421813965
+321.7339515686035
+317.9590702056885
+316.5149688720703
+356.6739559173584
+13.317346572875977
+367.08903312683105
+332.19265937805176
+326.62153244018555
+334.93971824645996
+318.087100982666
+334.78641510009766
+321.3779926300049
+322.345495223999
+322.6473331451416
+324.1081237792969
+322.21484184265137
+321.4755058288574
+323.14467430114746
+322.49903678894043
+321.08497619628906
+321.5289115905762
+317.94118881225586
+323.5623836517334
+319.2145824432373
+323.2896327972412
+321.8579292297363
+332.7360153198242
+336.84420585632324
+325.0880241394043
+319.9117183685303
+325.03414154052734
+323.64749908447266
+320.9545612335205
+322.50213623046875
+320.8637237548828
+338.0625247955322
+321.8798637390137
+335.85214614868164
+338.6855125427246
+320.1634883880615
+323.7273693084717
+323.5127925872803
+4.159688949584961
+347.8209972381592
+317.8410530090332
+320.4963207244873
+320.88422775268555
+338.30952644348145
+319.09871101379395
+337.19730377197266
+323.4081268310547
+320.2664852142334
+318.9225196838379
+318.80664825439453
+320.1735019683838
+324.7103691101074
+323.42982292175293
+322.48997688293457
+317.49939918518066
+318.3603286743164
+318.8178539276123
+319.02456283569336
+320.5857276916504
+316.61176681518555
+321.1538791656494
+316.9538974761963
+318.09020042419434
+4.00996208190918
+5.292177200317383
+5.551338195800781
+5.60307502746582
+4.15802001953125
+5.572795867919922
+4.065990447998047
+4.939794540405273
+4.209756851196289
+3.9517879486083984
+5.498170852661133
+4.061222076416016
+5.560159683227539
+3.936290740966797
+4.164934158325195
+4.972934722900391
+5.426645278930664
+5.500316619873047
+5.024433135986328
+351.9465923309326
+318.01724433898926
+320.0411796569824
+335.2532386779785
+318.5696601867676
+319.93675231933594
+332.5967788696289
+320.263147354126
+327.2550106048584
+323.08173179626465
+320.77813148498535
+
+
+Sample 2:
+
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered The DNS operation timed out.; Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered The DNS operation timed out.; Server 192.168.43.1 UDP port 53 answered The DNS operation timed out.; Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered The DNS operation timed out.; Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+Average request time: 404.02019023895264 ms
+Standart deviation: 520.3680328567915 ms
+Samples:
+319.93722915649414
+318.3302879333496
+332.5061798095703
+317.4769878387451
+320.1422691345215
+320.1463222503662
+317.55852699279785
+317.94023513793945
+315.58918952941895
+334.34486389160156
+318.4783458709717
+318.91655921936035
+317.0886039733887
+319.7143077850342
+317.4898624420166
+317.49463081359863
+321.0461139678955
+320.29247283935547
+321.1517333984375
+321.78735733032227
+321.5327262878418
+321.36034965515137
+319.0193176269531
+319.5333480834961
+320.8963871002197
+320.21236419677734
+320.0414180755615
+331.890344619751
+318.1443214416504
+319.6096420288086
+331.56609535217285
+319.3240165710449
+320.2552795410156
+319.7131156921387
+319.3809986114502
+318.1774616241455
+319.89526748657227
+316.21432304382324
+319.8411464691162
+319.6902275085449
+321.6071128845215
+319.9949264526367
+320.7085132598877
+332.3788642883301
+317.4402713775635
+334.55872535705566
+320.5559253692627
+318.5157775878906
+317.23737716674805
+317.9621696472168
+317.61693954467773
+334.38849449157715
+321.43592834472656
+332.195520401001
+318.2711601257324
+318.27688217163086
+333.981990814209
+319.83256340026855
+318.91322135925293
+316.8468475341797
+333.70208740234375
+335.38222312927246
+320.2335834503174
+321.3987350463867
+335.2930545806885
+321.4108943939209
+319.2172050476074
+320.64199447631836
+333.4829807281494
+318.39919090270996
+318.7382221221924
+320.00231742858887
+321.3763236999512
+317.1074390411377
+317.3811435699463
+318.37916374206543
+336.25149726867676
+319.04125213623047
+318.10808181762695
+318.04943084716797
+317.8272247314453
+319.7197914123535
+333.7059020996094
+333.5545063018799
+317.838191986084
+298.3744144439697
+33.29348564147949
+2436.7125034332275
+4619.3249225616455
+343.6999320983887
+312.0086193084717
+318.27712059020996
+316.0834312438965
+319.28443908691406
+315.42277336120605
+2432.2597980499268
+343.4019088745117
+317.74067878723145
+318.5398578643799
+314.90325927734375
+
+
+Sample 3:
+
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+All nameservers failed to answer the query 8.8.8.8.in-addr.arpa. IN PTR: Server 192.168.43.1 UDP port 53 answered REFUSED
+Average request time: 318.3764386177063 ms
+Standart deviation: 32.17377089237227 ms
+Samples:
+319.9503421783447
+317.0320987701416
+314.2828941345215
+316.1594867706299
+333.0340385437012
+319.34642791748047
+320.47533988952637
+330.7943344116211
+315.86360931396484
+317.094087600708
+315.8140182495117
+320.8131790161133
+330.9152126312256
+333.55712890625
+312.9734992980957
+315.8695697784424
+323.1062889099121
+333.111047744751
+320.68467140197754
+324.4624137878418
+317.1050548553467
+318.67265701293945
+319.25320625305176
+320.2047348022461
+317.55542755126953
+324.138879776001
+317.9440498352051
+325.46472549438477
+320.145845413208
+324.01561737060547
+321.86388969421387
+333.92906188964844
+318.3162212371826
+318.8488483428955
+323.1081962585449
+318.3631896972656
+320.42574882507324
+320.1427459716797
+319.57364082336426
+319.7450637817383
+320.8765983581543
+320.07813453674316
+319.86188888549805
+321.34032249450684
+317.52777099609375
+320.3246593475342
+319.38743591308594
+319.29707527160645
+320.6450939178467
+318.9733028411865
+319.82874870300293
+319.92340087890625
+319.6992874145508
+318.3271884918213
+319.78559494018555
+319.8399543762207
+319.6883201599121
+320.7898139953613
+320.76239585876465
+316.84231758117676
+319.8277950286865
+331.84289932250977
+318.7215328216553
+319.26894187927246
+320.81103324890137
+318.57872009277344
+318.3572292327881
+335.96324920654297
+319.1072940826416
+318.3298110961914
+318.38297843933105
+318.47119331359863
+319.60415840148926
+321.7294216156006
+320.0695514678955
+318.9859390258789
+317.2898292541504
+319.16356086730957
+319.1344738006592
+332.7333927154541
+319.61750984191895
+318.3307647705078
+320.828914642334
+333.9977264404297
+332.0763111114502
+320.38402557373047
+316.0865306854248
+319.68188285827637
+332.16381072998047
+319.6444511413574
+320.6818103790283
+317.3084259033203
+319.25177574157715
+330.8296203613281
+4.524469375610352
+342.5905704498291
+334.20586585998535
+319.3833827972412
+319.97132301330566
+321.75588607788086
